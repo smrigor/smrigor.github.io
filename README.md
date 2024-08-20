@@ -1,2 +1,2 @@
 # smrigor.github.io
-learning how to write in HTML and CSS by developing my own portfolio website
+learning how to write in HTML, CSS, and JS by developing my own portfolio website
