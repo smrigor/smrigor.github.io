@@ -162,7 +162,7 @@ header table {
     background:rgb(255, 44, 90);
 }
 #rightImage {
-    width:100%;
+    width:60%;
     height:95vh;
     background:url("portrait.JPG") center center;
     background-size:cover;
